@@ -1,0 +1,6 @@
+[submodule "gifthub-core"]
+	path = gifthub-core
+	url = https://github.com/CalebSLane/gifthub-core.git
+[submodule "gifthub-webapi"]
+	path = gifthub-webapi
+	url = https://github.com/CalebSLane/gifthub-webapi.git
